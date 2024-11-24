@@ -6,7 +6,6 @@ Welcome to the official portfolio website of **Shivam Rawat**, a passionate and 
 
 - [About Me](#about-me)
 - [Tech Stack](#tech-stack)
-- [Projects](#projects)
 - [Contact](#contact)
 
 ---
@@ -58,38 +57,6 @@ Here’s a list of the technologies I am proficient in and enjoy working with:
 - **Agile/Scrum** methodologies
 - **CI/CD pipelines**
 - **Cloud platforms** like AWS
-
----
-
-## Projects
-
-Below are some of the key projects I’ve worked on:
-
-### 1. [Project Name 1](#)
-
-A brief description of the project, its goals, and the technologies used. You can add a link to the project or demo here.
-
-- **Tech Stack**: React, Node.js, MongoDB
-- **Features**: Real-time data updates, user authentication, dynamic UI
-- **Github**: [link to repository](#)
-
-### 2. [Project Name 2](#)
-
-A brief description of the project, its goals, and the technologies used.
-
-- **Tech Stack**: Express.js, MongoDB, JavaScript
-- **Features**: RESTful APIs, responsive design, user interactions
-- **Github**: [link to repository](#)
-
-### 3. [Project Name 3](#)
-
-A brief description of the project, its goals, and the technologies used.
-
-- **Tech Stack**: HTML, CSS, JavaScript, Tailwind CSS
-- **Features**: Responsive design, animation, accessibility
-- **Github**: [link to repository](#)
-
----
 
 ## Contact
 
