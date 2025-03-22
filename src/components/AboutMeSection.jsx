@@ -137,7 +137,7 @@ const AboutMeSection = forwardRef((props, ref) => {
             technical expertise. 👇
           </Typography>
           <Link
-            href="/Shivam_Resume.pdf"
+            href="/Shivam Rawat Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             underline="none"
